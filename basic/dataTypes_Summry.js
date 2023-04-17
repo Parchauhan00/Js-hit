@@ -38,4 +38,35 @@ let myObj = {
 
   console.log(typeof outsideTemp);
 
-  //
+
+
+  // ********************************************************************************************************
+
+  //Stack (primitiv), Heap (Non-premitive)
+
+  let myYoutubrname = "crazyFact"
+
+  let anothername = myYoutubrname
+
+  console.log(anothername);
+
+
+  // in primitve datatype variable copy
+
+
+  let user = {
+
+    email : "user1@gmail.com"
+    
+  }
+
+   let userTwo = user
+
+   userTwo.email = "prime00@"
+
+   console.log(user.email)
+   console.log(userTwo.email)
+
+
+   // in Non primitve datatype it direct reference to orignal 
+
