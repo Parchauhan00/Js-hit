@@ -43,3 +43,9 @@ const myn2 = myArr.splice(1, 3)
 
 console.log("C", myArr);
 console.log(myn2);
+
+
+const arr = [9,7,2,0,8,0,2,0,6,7]
+for(let i =0;i<arr.length;i++) {
+console.log(arr[i])
+}
