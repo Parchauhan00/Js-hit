@@ -1,2 +1,3 @@
-# Js-hit
+# Java script 
 js serise at chai
+
